@@ -5,4 +5,5 @@
 <h1>SENDIFY</h1>
         <link rel="stylesheet" href="style.css">
          </head>
-
+<body>
+<div class="container">
