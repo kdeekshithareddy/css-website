@@ -1,12 +1,26 @@
 <!DOCTYPE html>
 <html>
-<head>
-<title>SEPM.COM</title>
-<h1>SENDIFY</h1>
+    <head>
+        <title>SEPM.COM</title>
+        <h1>SENDIFY</h1>
         <link rel="stylesheet" href="style.css">
-         </head>
-<body>
-<div class="container>
-<ul>
+    </head>
+        <body>
+            
+            <div class="container">
+                
+                <div class="container">
+                
+                <ul>
+                    
+                    <li class="menu"><a href="Message.html">Message</a></li>
+                    <li class="menu"><a href="Search.html">Search</a></li>
+                    <li class="menu"><a href="Call.html">Call</a></li>
+                    <li class="menu"><a href="Edit.html">Edit</a></li>
+                    <li class="menu"><a href="Settings.html">Settings</a></li>
+                </ul>
 
+                
 
+            </nav>
+            </div>
